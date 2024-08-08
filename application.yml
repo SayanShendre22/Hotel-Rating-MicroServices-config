@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: Config-defult
 
 eureka:
  instance:
